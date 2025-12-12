@@ -82,5 +82,10 @@ All figures in the final write-up — such as:
 - Performed detailed case studies for the United States and China to analyze model performance and limitations
   
 **Darcy Long:**
-
+ - Cleaned and processed the cases & deaths dataset and the policy dataset, and introduced the use of ISO country codes
+ - Built the SIR model and the SEIS model framework
+ - Modeled the policy effects on transmission rate
+ - Solved the ODEs and optimized the parameter with L-BFGS-B
+ - Created visualizations of COVID dynamics and built the framework of the interactive plots for SIR and SEIS simulations
+ - Built the comprehensive plots to analyze final results
 
