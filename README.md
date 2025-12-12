@@ -77,7 +77,7 @@ All figures in the final write-up — such as:
 - Processed, merged, and standardized population and vaccination datasets
 - Derived and implemented the SEIS ordinary differential equations based on relevant literature
 - Incorporated vaccination effects into the SEIS model formulation
-- Developed visualizations
+- Developed visualizations and project documentation
 - Conducted model evaluation using multiple error metrics
 - Performed detailed case studies for the United States and China to analyze model performance and limitations
   
